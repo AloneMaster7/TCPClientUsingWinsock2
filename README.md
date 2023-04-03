@@ -1,2 +1,2 @@
 # TCPClientUsingWinsock2
-TCP client(console based). only used winsock2 , hasn't GUI.
+TCP client(console based). using winsock2 , hasn't GUI.
